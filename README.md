@@ -1,4 +1,5 @@
 # Manager Expectations
+*This is a public version of my Manager README. I have omitted some information that is very company specific regarding information about the product and company policy. If you're an internal person reading this then I can share another version with you that is 97% the same as this but has a bit of supplementary material that is important for you.*
 
 ## About Me
 Hi, I’m Ryan Rodemoyer. But most people here call me Rodey. Rodey is a nickname I’ve had for the majority of my life and it’s just the first two syllables of my last name. My last name is kind of funky but it’s pronounced Row-Dee-moyer.
