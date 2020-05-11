@@ -44,6 +44,7 @@ These are a few items that have resonated with me and thought it would be useful
 * https://www.youtube.com/watch?v=iMGWTGGVMzw (Jocko Podcast #210)
 * https://www.businessinsider.com/former-navy-seals-jocko-willink-leif-babin-laws-of-combat-2018-9
 * https://hbr.org/2011/04/how-to-build-confidence
+* https://hbr.org/2020/05/good-leadership-is-about-communicating-why
 
 #### Accountability
 * https://hbr.org/2016/01/the-right-way-to-hold-people-accountable
