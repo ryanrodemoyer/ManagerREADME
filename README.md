@@ -1,21 +1,28 @@
 # Manager Expectations
 *This is a public version of my Manager README. I have omitted some information that is very company specific regarding information about the product and company policy. If you're an internal person reading this then I can share another version with you that is 97% the same as this but has a bit of supplementary material that is important for you.*
 
+__Revised September 2022__
+It's been nearly three years since I started my journey as a manager and I have learned A LOT over this time. I'm coming back to reflect on this document to see where I still agree, if I've changed my mind on anything and finally update with new information. Do you want to see what I learned? Check the diff on this file to see where my brain is focusing these days! Thanks for taking the time to read.
+
 ## About Me
-Hi, I’m Ryan Rodemoyer. But most people here call me Rodey. Rodey is a nickname I’ve had for the majority of my life and it’s just the first two syllables of my last name. My last name is kind of funky but it’s pronounced Row-Dee-moyer.
+Hi, I’m Ryan Rodemoyer. Most people here call me Rodey. Rodey is a nickname I’ve had for the majority of my life and it’s just the first two syllables of my last name. My last name is kind of funky but it’s pronounced Row-Dee-moyer.
 
-At this point in my life there are three things that define me: my family, my career and my fitness. My family consists of my wife of eleven years and two daughters (eight and eleven when writing this). My youngest is super in to dance and my oldest is crazy about volleyball. We relocated to Colorado in early 2015 in search of a better life than the cloudy, dreery and humid climate of western Pennsylvania. Being fit is a core value to me and I workout almost every day to support that value.
+At this point in my life there are three things that define me: my family, my career and my fitness. My family consists of my wife of fourteen years and two daughters (eleven and fourteen when writing this). My youngest is crazy in to dance and my oldest is crazy about volleyball where she plays club and school. In early 2015 we relocated to Colorado in search of a better life than the cloudy, dreery and humid climate of western Pennsylvania. After six wonderful years in Denver we moved back to Pittsburgh, PA in June of 2021 and now live just outside of the airport. Being fit is a core value to me and I workout almost every day to support that value.
 
-I’ve been with the company since May 2016 when I joined as a developer. I’ve had the most impact on a few key areas: RabbitMQ implementation, API security, adoption of Git and unit testing. In early 2018 I joined the Architecture group and over the next year and a half I split my time between the ELC and DC products. November 2019 I moved back to the Engineering organization as a Development Manager.
+I’ve been with the company since May 2016 when I joined as a developer. I’ve had the most impact on a few key areas: RabbitMQ implementation, API security, adoption of Git and unit testing, creation of our webhooks framework and creation of the `mcp-cli` tool that is used to update local developer environments. In early 2018 I joined the Architecture group and over the next year and a half I split my time between the ELC and DC products. November 2019 I moved back to the Engineering organization as an Engineering Manager.
 
 ## My Goals (as a manager)
 * Support the development team as a whole.
+    - Ensure we have the right people in our organization.
+    - Strive to efficiently use our company resources to make progress against our road map.
+    - All people need to be accountable to someone.
+    - All efforts need to be accountable to someone.
 * Support my direct reports by providing feedback, exposure and opportunities for growth and learning.
    * Balance your needs against the needs of the company/project and put you in a position to succeed. Preparation is your responsibility. My responsibility is for you to know what is expected.
 * Make those around me better.
 
 ## My Guiding Principles
-For technical work, I am default hands-off but can and can be hands on if that is required for a specific situation. I want you to have the “creative freedom” to deliver the solution assuming it solves the high level functional requirements. I prefer to contribute to the requirements of a solution and almost always delegate the implementation to those closest to the code. 
+For technical work, I will be hands-on with contributing to functional requirements and getting you the information and helping you navigate the organization so you you can make the changes. Part of my role is defining and setting requirements and expectations. I want you to have the “creative freedom” to deliver the solution assuming it solves the high level functional requirements. I prefer to contribute to the requirements of a solution and almost always delegate the implementation to those closest to the code. 
 
 For career and professional work, I am much more involved and we will work together to build a plan for growth. I can and will put you in a position to succeed in this organization. Once in position, it is up to you to make the most of the opportunity. I can only open the doors for you - it is up to you to step through them.
 
@@ -27,6 +34,24 @@ Our relationship in the office is a bit different than traditional manager-emplo
 We will most likely not work on projects together nor will I assign you items/manage your workload. I will pursue a different set of actions to work on our system and will not be involved with assigning tasks to you or your team. You’re welcome to check in with me about your work items and ask for feedback, help and/or assistance but otherwise I will trust you to complete on your own terms and within the acceptable tolerance of your team.
 
 I am a trusting person by default. I extend that trust, at the beginning, liberally. With that said, I retain the right to pull back my trust if professional and/or performance issues arise. My expectations are well documented (in this very document!) so if I do have a concern I can almost certainly reference my listed expectations as for why there is an issue we need to address.
+
+## My Current Role
+My primary activity is helping to manage our Release Support team - the group of people and the workload that focuses on released versions and soon-to-be-released versions of our software. I can and will do many different things on this front to keep the team moving: 
+- help build and refine requirements
+- help developers understand requirements
+- create work items to suggest enhancements and fix issues
+- triage and resolve production issues and outages
+- triage and resolve issues with internal deployments and environments
+- several other responsibilities too onerous to fully enumerate
+
+
+## KPI's
+Many years ago I had a boss who used the phrase "you can't manage what you can't measure". And while I didn't quite care for the fellow, I do think he was on to something and now I have a corollary: "your data tells a story". I have developed a fondness for data and using the data to generate insights in to our engineering practices and organization.
+
+KPI's is an acronym for Key Performance Indicators. Data points that we can anchor against to show us how we are really doing. I'm extra passionate for these three KPI's.
+- number of days to complete first pull request.
+- number of pull requests complete within first thirty days.
+- number of pull requests complete within first six months.
 
 ## “Get to Know You” Questions
 These are a few questions that we will discuss at one of our one on one meetings. I provide them ahead of time so you can think about potential answers, gather your thoughts and talk about them without being put on the spot.
@@ -91,7 +116,7 @@ You are the only person who knows best what you have been able to complete over 
 
 Performance Achievement is a critical aspect of your career at Accenture and is taken seriously. The annual performance review cycle is the method for determining compensation adjustments and promotion opportunities. Monitoring and tracking your “wins” is a hugely beneficial habit for being fully prepared as you enter this event. I will advocate for you during Performance Achievement based on what I know and understand and getting your supporting information is insanely beneficial so I know as much as possible during these discussions.
 
-Performance reviews are critical aspect of your career at Accenture and are taken seriously. I highly recommend you keep track of your accomplishments and successes throughout the year so you have a list of these items and are prepared for when we need to complete our self-assessments. It’s impossible for me to remember everything for everyone (I struggle with for just myself!) so 
+Performance reviews are critical aspect of your career at Accenture and are taken seriously. I highly recommend you keep track of your accomplishments and successes throughout the year so you have a list of these items and are prepared for when we need to complete our self-assessments. It’s impossible for me to remember everything for everyone (I struggle for just myself!). 
 
 ### Growth Mindset
 I summarize the growth mindset with the following statement: all skills are attainable and cultivable through dedicated and mindful practice.
@@ -104,7 +129,7 @@ I truly believe we are in an organization that values the growth mindset. You're
 Look first to yourself when something goes wrong or sideways or the outcome failed to meet your expectations. You will most often find a few things within your control that could have been done to affect the outcome. 
 
 Ownership is:
-* Contagious. You will set an amazing example for your team by demonstrating the practice and it will spread to your peers on the team.
+* Contagious. You will set an amazing example by demonstrating ownership and it will spread to your peers on the team.
 * A two-way street. Exhibiting ownership within your team and on your projects will set the standard at a high level. You cannot force another person to adopt the ownership mentality but you can set the expectation.
 
 Do you know why a story was kicked back to you with a bug or because your deliverables failed to meet expectations? 
