@@ -112,6 +112,10 @@ These are high level targets that I will use to assess and gauge your performanc
 - Carry a story from beginning to end while engaging relevant SME's when applicable.
 - Resolving 8-13 story points or 2-4 work items per week.
 
+### Trainings
+- I will provide an additional list of relevant internal trainings that are beneficial along with a timeline to complete.
+- Self-identify weaknesses or development areas where you are uncomfortable and identify relevant trainings and/or learning opportunities to grow in these areas. 
+
 ## My Expectations
 The below areas are what I consider to be the most important for performance and evaluation. These key areas will be used to gauge your performance and a lot of the feedback you receive will be focused on them.
 
