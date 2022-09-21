@@ -79,9 +79,38 @@ These are a few items that have resonated with me and thought it would be useful
 ### Technical
 * https://drawings.jvns.ca/wizard-programmer
 
-## Day 1 Activities
-*omitted because this is company specific*
+## New Hire Expectations - Year 1
+These are high level targets that I will use to assess and gauge your performance over the first year.
 
+### 0-2 days
+- Setup developer environment.
+- Demonstrate the most common tasks for a developer: update to the latest version of the software, update the database, etc.
+- Ensure all aspects of the software can get launched successfully.
+- Ensure that breakpoints in the backend and frontend can be hit.
+
+### 3-14 days
+- Complete first pull request.
+- Explain relevant pipelines and the CI/CD process.
+- Demonstrate the work item tool and how to find items to work on. Employee works with manager to find relevant work items. Do not assin complex or challenging work items that will require significant assistance from Manager or others.
+
+### 15-30 days
+- Complete 2-3 additional pull requests.
+
+### 1-3 months
+- Rapid knowledge acquisition and exposure to various work items.
+- Resolving 1-2 work items or pull requests per week.
+
+### 4-6 months
+- Assist agile/scrum/feature team through implementation.
+- Resolve 5-8 story points or 2-3 work items per week.
+
+### 7-9 months
+- Confidence building to work independently and with less oversight from team members. Employee is reaching out to peers/SME's when appropriate.
+
+### 10-12 months
+- Work independently on multiple areas of the system and/or with/through SME's.
+- Carry a story from beginning to end while engaging relevant SME's when applicable.
+- Resolving 8-13 story points or 2-4 work items per week.
 
 ## My Expectations
 The below areas are what I consider to be the most important for performance and evaluation. These key areas will be used to gauge your performance and a lot of the feedback you receive will be focused on them.
