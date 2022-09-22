@@ -21,20 +21,6 @@ I’ve been with the company since May 2016 when I joined as a developer. I’ve
    * Balance your needs against the needs of the company/project and put you in a position to succeed. Preparation is your responsibility. My responsibility is for you to know what is expected.
 * Make those around me better.
 
-## My Guiding Principles
-For technical work, I will be hands-on with contributing to functional requirements and getting you the information and helping you navigate the organization so you you can make the changes. Part of my role is defining and setting requirements and expectations. I want you to have the “creative freedom” to deliver the solution assuming it solves the high level functional requirements. I prefer to contribute to the requirements of a solution and almost always delegate the implementation to those closest to the code. 
-
-For career and professional work, I am much more involved and we will work together to build a plan for growth. I can and will put you in a position to succeed in this organization. Once in position, it is up to you to make the most of the opportunity. I can only open the doors for you - it is up to you to step through them.
-
-## Our Working Relationship
-Our relationship in the office is a bit different than traditional manager-employee relationships at other organizations. At Mortgage Cadence, I am more of a “people” manager than a “work item” manager. As a manager I operate in two phases:
-1. Work diligently to understand your professional goals, balance those items with your current progress and trajectory and influence others in the engineering and architecture groups to put you in positions/roles for where you are best-fit.
-1. Understand the needs of the upcoming projects, company direction and skills of my employees to provide recommendations on direction for both company/product affairs and professional growth for people. Our company and products have the best chance for success when our people - who provide the direct support and lifeblood - are best prepared for the upcoming opportunities.
-
-We will most likely not work on projects together nor will I assign you items/manage your workload. I will pursue a different set of actions to work on our system and will not be involved with assigning tasks to you or your team. You’re welcome to check in with me about your work items and ask for feedback, help and/or assistance but otherwise I will trust you to complete on your own terms and within the acceptable tolerance of your team.
-
-I am a trusting person by default. I extend that trust, at the beginning, liberally. With that said, I retain the right to pull back my trust if professional and/or performance issues arise. My expectations are well documented (in this very document!) so if I do have a concern I can almost certainly reference my listed expectations as for why there is an issue we need to address.
-
 ## My Current Role
 One of my primary responsibilities is helping manage our Release Support team - the group of people and the workload that focuses on released versions and soon-to-be-released versions of our software. I can and will do many different things on this front to keep the team moving: 
 - help build and refine requirements
@@ -45,13 +31,26 @@ One of my primary responsibilities is helping manage our Release Support team - 
 - triage and resolve issues with internal deployments and environments
 - several other responsibilities too onerous to fully enumerate
 
+For technical work, I am hands-on with contributing to functional requirements, getting relevant information about the work and helping you navigate the organization so you you can deliver the technical changes. Part of my role is defining and setting requirements and expectations. I want you to have the “creative freedom” to deliver the solution assuming it solves the high level functional requirements. I prefer to contribute to the requirements of a solution and almost always delegate the implementation to those closest to the code. 
+
+## Our Working Relationship
+Our relationship in the organization is a bit different than traditional manager-employee relationships at other organizations. At Mortgage Cadence, with respect to how we will interact, as a manager I operate in two phases:
+1. Work diligently to understand your professional goals, balance those items with your current progress and trajectory and influence others in the engineering and architecture groups to put you in positions/roles for where you are best-fit.
+    - For career and professional work, we will work together to build a plan for growth. I can and will put you in a position to succeed in this organization. Once in position, it is up to you to make the most of the opportunity. I can only open the doors for you - it is up to you to step through them. 
+2. Understand the needs of the upcoming projects, company direction and skills of my employees to provide recommendations on direction for both company/product affairs and professional growth for people. Our company and products have the best chance for success when our people - who provide the direct support and lifeblood - are best prepared for the upcoming opportunities.
+
+We will most likely not work on projects together nor will I assign you items/manage your workload. I have my own work to complete and will not be involved with assigning tasks to you or your team. You’re welcome to check in with me about your work items and ask for feedback, help and/or assistance but otherwise I will trust you to complete work items on your own terms and within the acceptable guidelines of your team.
+
+I am a trusting person by default. I extend that trust, at the beginning, liberally. With that said, I retain the right to pull back my trust if professional and/or performance issues arise. My expectations are well documented (in this very document!) so if I do have a concern I can almost certainly reference my listed expectations as for why there is an issue we need to address.
+
 ## KPI's
 Many years ago I had a boss who used the phrase "you can't manage what you can't measure". And while I didn't quite care for the fellow, I do think he was on to something and now I have a corollary: "your data tells a story". I have developed a fondness for data and using the data to generate insights in to our engineering practices and organization.
 
-KPI's is an acronym for Key Performance Indicators. Data points that we can anchor against to show us how we are really doing as team members and as an software engineering organization. I'm extra passionate for these three KPI's because they speak volumes about how well a manager can onboard a new employee, get them acclimated to the organization and productive within the company.
+KPI's is an acronym for Key Performance Indicators. Data points that we can anchor against to show us how we are performing as team members and as an software engineering organization. I'm extra passionate for these four KPI's because they speak volumes about how well a manager can onboard a new employee, get them acclimated to the organization and productive within the company.
 - number of days to complete first pull request.
 - number of pull requests complete within first thirty days.
 - number of pull requests complete within first six months.
+- number of kickbacks (a work item that goes back to development because it failed testing).
 
 ## “Get to Know You” Questions
 These are a few questions that we will discuss at one of our one on one meetings. I provide them ahead of time so you can think about potential answers, gather your thoughts and talk about them without being put on the spot.
@@ -78,7 +77,6 @@ These are a few items that have resonated with me and thought it would be useful
 
 ### Technical
 * https://drawings.jvns.ca/wizard-programmer
-
 
 ## The First Year - Metrics
 These are high level targets that I will use to assess, gauge and guide your acclimation to the company over the first year. A Developer role requires a lot of things to get done yet it all boils down to this: shipping code. Our fundamental unit of work is making changes to the system through code and in our organization all code is changed through a pull request. Our most successful developers register high on the list on "raw number of pull requests completed".
