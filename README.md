@@ -79,8 +79,9 @@ These are a few items that have resonated with me and thought it would be useful
 ### Technical
 * https://drawings.jvns.ca/wizard-programmer
 
-## New Hire Expectations - Year 1
-These are high level targets that I will use to assess and gauge your performance over the first year.
+
+## The First Year - Metrics
+These are high level targets that I will use to assess, gauge and guide your acclimation to the company over the first year. A Developer role requires a lot of things to get done yet it all boils down to this: shipping code. Our fundamental unit of work is making changes to the system through code and in our organization all code is changed through a pull request. Our most successful developers register high on the list on "raw number of pull requests completed".
 
 ### 0-2 days
 - Setup developer environment.
