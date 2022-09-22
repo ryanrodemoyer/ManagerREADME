@@ -22,6 +22,8 @@ I’ve been with the company since May 2016 when I joined as a developer. I’ve
 * Make those around me better.
 
 ## My Current Role
+"So, what would you say you do around here?" goes the famous quote from Office Space. Even though it's a joke, I still have put a lot of thought into this question and how I would describe my job to a complete stranger. The answer is I get people to work together to build software. It is with that frame of reference that we can continue with describing my current role within the organization and the things I do on a daily basis.
+
 One of my primary responsibilities is helping manage our Release Support team - the group of people and the workload that focuses on released versions and soon-to-be-released versions of our software. I can and will do many different things on this front to keep the team moving: 
 - help build and refine requirements
 - help developers understand requirements
