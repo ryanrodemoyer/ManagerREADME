@@ -34,11 +34,15 @@ One of my primary responsibilities is helping manage our Release Support team - 
 For technical work, I am hands-on with contributing to functional requirements, getting relevant information about the work and helping you navigate the organization so you you can deliver the technical changes. Part of my role is defining and setting requirements and expectations. I want you to have the “creative freedom” to deliver the solution assuming it solves the high level functional requirements. I prefer to contribute to the requirements of a solution and almost always delegate the implementation to those closest to the code. 
 
 ## Accountability
-The buck stops here, as they say. This is a new addition in 2022 to the README and something that I've learned as a manager. I have developed two axiomatic truths:
+"The buck stops here.", as they say. "One hand to shake." is another variation.
+
+I have developed two axiomatic truths when it comes to managing people and managing work:
 1. All people need to be accountable to someone.
 2. All work needs to be accountable to someone. 
 
-Perhaps the above statements are obvious - that's a reasonable assessment. However, my experience shows me this is often the cause of so much strife within an organization. We see people brought in to projects who are unclear what they should do, to whom they report and how they should get help. There are things that need done and it's unclear who is the ultimate owner of the work to ensure it is complete. We should thoroughly mitigate the chance that two or more people think someone else are performing the tasks!
+Perhaps the above statements are obvious - that's a reasonable assessment. However, my experience shows me that the cause of so much strife within an organization is due to breakdowns in one or both cases. People are brought in to projects and given vague descriptions of what needs done, to whom they report and how they should get help. There are things that need done and it's unclear who will actually complete. Bob and Janet both think the other has the next step, or even worse neither Bob nor Janet know who will complete the next step. Another common situation is the team has identified several action items that are required to make progress or complete a task yet failed to assign a specific individual to the specific action item. Then over the next week, little-to-no progress was made because everyone resumed their normal day-to-day activities.
+
+I am leader. People and work need to be lead.
 
 ## Our Working Relationship
 Our relationship in the organization is a bit different than traditional manager-employee relationships at other organizations. At Mortgage Cadence, with respect to how we will interact, as a manager I operate in two phases:
