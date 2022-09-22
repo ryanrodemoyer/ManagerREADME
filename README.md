@@ -33,6 +33,13 @@ One of my primary responsibilities is helping manage our Release Support team - 
 
 For technical work, I am hands-on with contributing to functional requirements, getting relevant information about the work and helping you navigate the organization so you you can deliver the technical changes. Part of my role is defining and setting requirements and expectations. I want you to have the “creative freedom” to deliver the solution assuming it solves the high level functional requirements. I prefer to contribute to the requirements of a solution and almost always delegate the implementation to those closest to the code. 
 
+## Accountability
+The buck stops here, as they say. This is a new addition in 2022 to the README and something that I've learned as a manager. I have developed two axiomatic truths:
+1. All people need to be accountable to someone.
+2. All work needs to be accountable to someone. 
+
+Perhaps the above statements are obvious - that's a reasonable assessment. However, my experience shows me this is often the cause of so much strife within an organization. We see people brought in to projects who are unclear what they should do, to whom they report and how they should get help. There are things that need done and it's unclear who is the ultimate owner of the work to ensure it is complete. We should thoroughly mitigate the chance that two or more people think someone else are performing the tasks!
+
 ## Our Working Relationship
 Our relationship in the organization is a bit different than traditional manager-employee relationships at other organizations. At Mortgage Cadence, with respect to how we will interact, as a manager I operate in two phases:
 1. Work diligently to understand your professional goals, balance those items with your current progress and trajectory and influence others in the engineering and architecture groups to put you in positions/roles for where you are best-fit.
