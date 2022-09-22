@@ -36,19 +36,19 @@ We will most likely not work on projects together nor will I assign you items/ma
 I am a trusting person by default. I extend that trust, at the beginning, liberally. With that said, I retain the right to pull back my trust if professional and/or performance issues arise. My expectations are well documented (in this very document!) so if I do have a concern I can almost certainly reference my listed expectations as for why there is an issue we need to address.
 
 ## My Current Role
-My primary activity is helping to manage our Release Support team - the group of people and the workload that focuses on released versions and soon-to-be-released versions of our software. I can and will do many different things on this front to keep the team moving: 
+One of my primary responsibilities is helping manage our Release Support team - the group of people and the workload that focuses on released versions and soon-to-be-released versions of our software. I can and will do many different things on this front to keep the team moving: 
 - help build and refine requirements
 - help developers understand requirements
+- review pull requests
 - create work items to suggest enhancements and fix issues
 - triage and resolve production issues and outages
 - triage and resolve issues with internal deployments and environments
 - several other responsibilities too onerous to fully enumerate
 
-
 ## KPI's
 Many years ago I had a boss who used the phrase "you can't manage what you can't measure". And while I didn't quite care for the fellow, I do think he was on to something and now I have a corollary: "your data tells a story". I have developed a fondness for data and using the data to generate insights in to our engineering practices and organization.
 
-KPI's is an acronym for Key Performance Indicators. Data points that we can anchor against to show us how we are really doing. I'm extra passionate for these three KPI's.
+KPI's is an acronym for Key Performance Indicators. Data points that we can anchor against to show us how we are really doing as team members and as an software engineering organization. I'm extra passionate for these three KPI's because they speak volumes about how well a manager can onboard a new employee, get them acclimated to the organization and productive within the company.
 - number of days to complete first pull request.
 - number of pull requests complete within first thirty days.
 - number of pull requests complete within first six months.
