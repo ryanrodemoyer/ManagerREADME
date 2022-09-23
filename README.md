@@ -44,7 +44,7 @@ I have developed two axiomatic truths when it comes to managing people and manag
 
 Perhaps the above statements are obvious - that's a reasonable assessment. However, my experience shows me that the cause of so much strife within an organization is due to breakdowns in one or both cases. People are brought in to projects and given vague descriptions of what needs done, to whom they report and how they should get help. There are things that need done and it's unclear who will actually complete. Bob and Janet both think the other has the next step, or even worse neither Bob nor Janet know who will complete the next step. Another common situation is the team has identified several action items that are required to make progress or complete a task yet failed to assign a specific individual to the specific action item. Then over the next week, little-to-no progress was made because everyone resumed their normal day-to-day activities.
 
-I am leader. People and work need to be lead.
+I view myself as a leader. People and work need to be lead.
 
 ## Our Working Relationship
 Our relationship in the organization is a bit different than traditional manager-employee relationships at other organizations. At Mortgage Cadence, with respect to how we will interact, as a manager I operate in two phases:
@@ -57,9 +57,9 @@ We will most likely not work on projects together nor will I assign you items/ma
 I am a trusting person by default. I extend that trust, at the beginning, liberally. With that said, I retain the right to pull back my trust if professional and/or performance issues arise. My expectations are well documented (in this very document!) so if I do have a concern I can almost certainly reference my listed expectations as for why there is an issue we need to address.
 
 ## KPI's
-Many years ago I had a boss who used the phrase "you can't manage what you can't measure". And while I didn't quite care for the fellow, I do think he was on to something and now I have a corollary: "your data tells a story". I have developed a fondness for data and using the data to generate insights in to our engineering practices and organization.
+Many years ago I had a boss who used the phrase "you can't manage what you can't measure". And while I didn't quite care for the fellow, I do think he was on to something. During my time as a manager I have developed a corollary: "your data tells the story". I've cultivated a fondness for data and using it to generate (hopefully actionable!) insights into our engineering practices and organization.
 
-KPI's is an acronym for Key Performance Indicators. Data points that we can anchor against to show us how we are performing as team members and as an software engineering organization. I'm extra passionate for these four KPI's because they speak volumes about how well a manager can onboard a new employee, get them acclimated to the organization and productive within the company.
+KPI is an acronym for Key Performance Indicator. Data points that we can anchor against to show us how we are performing as team members and as an software engineering organization. I'm extra passionate for these four KPI's because they speak volumes about how well a manager can onboard a new employee, get them acclimated to the organization and productive within the company.
 - number of days to complete first pull request.
 - number of pull requests complete within first thirty days.
 - number of pull requests complete within first six months.
@@ -103,7 +103,7 @@ These are high level targets that I will use to assess, gauge and guide your acc
 ### 3-14 days
 - Complete first pull request.
 - Explain relevant pipelines and the CI/CD process.
-- Demonstrate the work item tool and how to find items to work on. Employee works with manager to find relevant work items. Do not assin complex or challenging work items that will require significant assistance from Manager or others.
+- Demonstrate the work item management tool (Azure DevOps, etc.) and how to find items to work on. Employee works with manager to find relevant work items. Do not assign complex or challenging work items that will require significant assistance from Manager or others.
 
 ### 15-30 days
 - Complete 2-3 additional pull requests.
